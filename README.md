@@ -65,7 +65,7 @@ Python 3, `pandas`, `matplotlib`, `seaborn`, `phik`, `statsmodels`, `openpyxl` (
 
 ```bash
 pip install pandas matplotlib seaborn phik statsmodels openpyxl jupyter
-jupyter notebook testovoe_metropoliten_fixed.ipynb
+jupyter notebook metropoliten_analytic.ipynb
 ```
 
 В ячейке загрузки укажите путь к своему файлу с данными (сейчас там `../downloads/нарушения ММ.xlsx`):
